@@ -1,0 +1,13 @@
+/* TODO: Put your CSS code in here */
+.container{
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 650px;
+  /* min-height: 100%; */
+  /* display: flex; */
+  background-image: url(https://source.unsplash.com/1600x900/?map);
+  background-size: cover;
+  margin: 0 auto;
+  margin-top: 10vh;
+}
