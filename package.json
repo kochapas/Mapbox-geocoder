@@ -4,6 +4,10 @@
   "main": "lib/app.js",
   "license": "UNLICENSED",
   "dependencies": {
-    "mapbox-gl": "^2.4.0"
+    "mapbox-gl": "^2.4.0",
+    "webpack": "^5.48.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
   }
 }
